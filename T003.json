@@ -1,0 +1,23 @@
+{
+    "categorys" : [
+        {"name" : "name", "descripition" : "descripition", "img" : "img", "parent" : "parent",
+        "products" : [
+            {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"},
+            {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"},
+            {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"}
+            ]},
+        {"name" : "name", "descripition" : "descripition", "img" : "img", "parent" : "parent",
+            "products" : [
+                {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"},
+                {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"},
+                {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"}
+            ]},
+         {"name" : "name", "descripition" : "descripition", "img" : "img", "parent" : "parent",
+        "products" : [
+            {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"},
+            {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"},
+            {"name" : "name", "descripition" : "descripition", "mass_img" : "mass_img", "price" : "price", "category_name" : "category_name"}
+            ]}    
+        
+    ]
+}
