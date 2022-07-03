@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lessons>
+    <lesson need="">
+        <name></name>
+        <description></description>
+        <tasks>
+            <task need="">
+                <name></name>
+                <questions>
+                    <question name="">
+                        <true></true>
+                    </question>
+                    <question name="">
+                        <true></true>
+                    </question>
+                </questions>
+            </task>
+        </tasks>
+    </lesson>
+    <lesson>
+        <name></name>
+        <description></description>
+        <tasks>
+            <task need="">
+                <name></name>
+                <questions>
+                    <question name="">
+                        <true></true>
+                    </question>
+                    <question name="">
+                        <true></true>
+                    </question>
+                </questions>
+            </task>
+        </tasks>
+    </lesson>
+</lessons>

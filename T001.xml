@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <categorys>
-    <category name="" description="" img="">
+    <category parent="">
+        <name></name>
+        <descripition></descripition>
+        <img></img>
         <product category="">
             <name></name>
             <description></description>
@@ -13,5 +16,22 @@
             <massImg></massImg>
             <price></price>
         </product>
+        <category parent="">
+            <name></name>
+            <descripition></descripition>
+            <img></img>
+            <product category="">
+                <name></name>
+                <description></description>
+                <massImg></massImg>
+                <price></price>
+            </product>
+             <product category="">
+                <name></name>
+                <description></description>
+                <massImg></massImg>
+                <price></price>
+            </product>
+        </category>
     </category>
 </categorys>
